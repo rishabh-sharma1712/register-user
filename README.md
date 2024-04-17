@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# React Hook Form + Typescript + Redux + Material Ui Register Usr
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Prerequisites
+- Node.js
+- npm
 
-## Available Scripts
+### Installation
 
-In the project directory, you can run:
+1. Clone the repository:
+2. Navigate into the project directory:
+  - cd project-directory
+3. Install the dependencies:
+ - npm install
+4. Start the development server:
+ - npm run start
 
-### `npm start`
+## Technologies Used
+- React.js
+- React Hook Form
+- Typescript
+- Material Ui
+- Redux
+- Yup Validation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Screenshots/Demo
+![Screenshot 2024-04-17 173953](https://github.com/rishabh-sharma1712/register-user/assets/143999847/a356de2b-6138-4e5f-b44b-93651581b596)
+![Screenshot 2024-04-17 173828](https://github.com/rishabh-sharma1712/register-user/assets/143999847/409ad268-6cc8-45b0-84a1-4ff76281ee0d)
+![Screenshot 2024-04-17 173856](https://github.com/rishabh-sharma1712/register-user/assets/143999847/5eefff8f-479d-40e1-8ab1-60cc2ced3f13)
+![Screenshot 2024-04-17 174043](https://github.com/rishabh-sharma1712/register-user/assets/143999847/cc59b0c3-f8c5-4be7-9acc-4690e604f1f1)
+![Screenshot 2024-04-17 174114](https://github.com/rishabh-sharma1712/register-user/assets/143999847/1a793b3e-622a-4294-ad10-5cd5e04a333f)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Summary
+This React blog app is a sleek and modern platform built using Bootstrap for styling, React Router for navigation, and Context API for state management. The design is fully responsive, ensuring a seamless experience across devices of all sizes. The dark mode feature enhances readability and reduces eye strain, providing users with a comfortable viewing experience, especially in low-light environments.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
